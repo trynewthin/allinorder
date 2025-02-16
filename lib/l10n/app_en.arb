@@ -1,0 +1,22 @@
+{
+  "appName": "All In Order",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "systemTheme": "System",
+  "chinese": "中文",
+  "english": "English",
+  "openRepository": "Open Repository",
+  "createRepository": "Create Repository",
+  "closeRepository": "Close Repository",
+  "addProject": "Add Project",
+  "refresh": "Refresh",
+  "sort": "Sort",
+  "searchProjects": "Search projects...",
+  "moreOptions": "More Options",
+  "error": "Error",
+  "ok": "OK",
+  "cancel": "Cancel"
+} 

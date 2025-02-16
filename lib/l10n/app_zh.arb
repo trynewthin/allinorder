@@ -1,0 +1,22 @@
+{
+  "appName": "All In Order",
+  "settings": "设置",
+  "theme": "主题",
+  "language": "语言",
+  "lightTheme": "浅色",
+  "darkTheme": "深色",
+  "systemTheme": "跟随系统",
+  "chinese": "中文",
+  "english": "English",
+  "openRepository": "打开仓库",
+  "createRepository": "新建仓库",
+  "closeRepository": "关闭仓库",
+  "addProject": "添加项目",
+  "refresh": "刷新",
+  "sort": "排序",
+  "searchProjects": "搜索项目...",
+  "moreOptions": "更多选项",
+  "error": "错误",
+  "ok": "确定",
+  "cancel": "取消"
+} 
